@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MasterDetail", "MasterDetail\", "{72B0A9DF-F517-4387-83A0-3D7A5B93EAA4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/MasterDetail"
+		Debug.AspNetCompiler.PhysicalPath = "MasterDetail\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\MasterDetail\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/MasterDetail"
+		Release.AspNetCompiler.PhysicalPath = "MasterDetail\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\MasterDetail\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55354"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72B0A9DF-F517-4387-83A0-3D7A5B93EAA4}.Debug|.NET.ActiveCfg = Debug|.NET
+		{72B0A9DF-F517-4387-83A0-3D7A5B93EAA4}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
