@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/MasterDetail/Default.aspx) (VB: [Default.aspx.vb](./VB/MasterDetail/Default.aspx.vb))
+* [Default.aspx](./CS/MasterDetail/Default.aspx) (VB: [Default.aspx](./VB/MasterDetail/Default.aspx))
 * [Default.aspx.cs](./CS/MasterDetail/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/MasterDetail/Default.aspx.vb))
 <!-- default file list end -->
 # How to implement editable master-detail ASPxGridView bound to a LinqServerModeDataSource
